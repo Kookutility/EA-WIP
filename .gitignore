@@ -1,0 +1,38 @@
+ 
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# OS
+Thumbs.db
+
+# Data
+*.csv
+*.avi
+*.mp4
+data/recordings/
+data/calibration_profiles/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*~
