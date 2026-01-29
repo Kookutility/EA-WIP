@@ -178,18 +178,6 @@ float speed = float.Parse(values[0]);
 - Verify Unity is listening on correct port
 - Use `--udp-ip` to specify correct network interface
 
-## Citation
-
-If you use this code in your research, please cite:
-```bibtex
-@article{your_paper_2025,
-  title={EA-WIP: Ergonomic-Adaptive Walking-In-Place Speed Estimation},
-  author={Your Name},
-  journal={Your Journal},
-  year={2025}
-}
-```
-
 ## License
 
 MIT License - See LICENSE file for details
