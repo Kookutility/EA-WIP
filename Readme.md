@@ -61,14 +61,14 @@ python main.py --udp-ip 192.168.1.100 --udp-port 5005 --camera-id 0 --base-speed
 ## Project Structure
 ```
 EA-WIP/
-├── core/                   # Algorithm implementation
+├── Algorithm/                   # Algorithm implementation
 │   ├── calibration.py      # Calibration logic (Eq. 3-9)
 │   └── ea_wip.py          # EA-WIP algorithm (Eq. 10-16)
 │
 ├── vision/                 # Computer vision
 │   └── pose_estimator.py  # MediaPipe wrapper
 │
-├── communication/          # Network communication
+├── PythonToUnity/          # Network communication
 │   └── udp_client.py      # UDP client/receiver
 │
 ├── ui/                     # User interface
