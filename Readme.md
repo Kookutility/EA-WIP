@@ -1,4 +1,4 @@
-# EA-WIP: Ergonomic-Adaptive Walking-In-Place
+# EA-WIP: Ergonomic Calibration and Occlusion-Aware Speed Estimation for Personalized Vision-Based Walking-in-Place
 
 Camera-based VR locomotion with user-specific calibration and occlusion-aware speed estimation.
 
